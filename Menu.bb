@@ -87,11 +87,11 @@ Function UpdateMainMenu()
 			
 			Select Rand(0, 22)
 				Case 0, 2, 3
-					MenuStr = "DON'T BLINK"
+					MenuStr = "НЕ КЛІПАЙ"
 				Case 4, 5
-					MenuStr = "Secure. Contain. Protect."
+					MenuStr = "Охороняти. Утримувати. Захищати."
 				Case 6, 7, 8
-					MenuStr = "You want happy endings? Fuck you."
+					MenuStr = "Хочеш хороших кінцівок? Йди до дідька"
 				Case 9, 10, 11
 					MenuStr = "Sometimes we would have had time to scream."
 				Case 12, 19
